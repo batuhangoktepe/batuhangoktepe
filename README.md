@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate iOS Developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/batuhangktpe" target="blank"><img src="https://img.shields.io/twitter/follow/batuhangktpe?logo=twitter&style=for-the-badge" alt="batuhangktpe" /></a> </p>
-
-- 🔭 I’m currently working on [Jigle](getjigle.onelink.me/TQz5/d8390fb7)
+- 🔭 I’m currently working on [Jigle](https://apps.apple.com/tr/app/jigle/id1022376457)
 
 - 🌱 I’m currently learning **iOS(Unit Testing, Metal) - Android Development and Kotlin**
 
